@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @gabatk
-- 👀 I’m interested in Front-End development. Especially in HTML, CSS, Bootstrap, SASS... and React <3
+- 👀 I’m interested in Front-End development. Especially in JavaScript, HTML, CSS, SASS... and React.
 - 🌱 I’m currently learning JavaScript.
